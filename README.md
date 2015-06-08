@@ -12,3 +12,5 @@ Put `monokai.vim` file in your `~/.vim/colors/` directory and add the following 
 
     syntax enable
     colorscheme monokai
+
+Forked to remove the background colour (Normal and NonText) so it looks nicer with translucent terminal windows
